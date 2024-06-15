@@ -5,4 +5,5 @@
 <h2>Profilix.io</h2>
 <p>Profilix adalah aplikasi untuk mengenerate website portofolio berdasarkan template yang telah di sediakan oleh aplikasi, user hanya perlu mengisi apa saja yang ingin di tampilkan dalam websitenya nanti.
 </p>
-<p>Tempalte beragam dari yang gratis sampai yang premium, dapat melakukan pembelian di dalam apliksi.</p>
+<p>Tempalte beragam dari yang gratis sampai yang premium, dapat melakukan pembelian di dalam aplikasi.</p>
+<p>Ini adalah aplikasi yang telah saya kerjakan selama internship di <a href="https://www.linkedin.com/company/oxinos/">PT Oxynos</a> </p>
